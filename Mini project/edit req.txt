@@ -1,0 +1,2 @@
+admin/print.php sun.jpg
+admin/show.php sun.jpg
